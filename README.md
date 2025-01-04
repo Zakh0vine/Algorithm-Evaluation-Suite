@@ -134,7 +134,8 @@ Program akan menampilkan grafik yang menunjukkan perbedaan waktu eksekusi antara
 
 ---
 ## **Perbandingan Kompleksitas Waktu**
-![perbandingan](https://github.com/user-attachments/assets/fab924a3-4a30-4408-93c2-34303f258928)
+
+![perbandingan](https://github.com/user-attachments/assets/50e45425-b08c-4e4c-9421-3de8f8afc415)
 
 ---
 
