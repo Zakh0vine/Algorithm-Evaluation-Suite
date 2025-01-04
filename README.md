@@ -139,6 +139,11 @@ Program akan menampilkan grafik yang menunjukkan perbedaan waktu eksekusi antara
 
 ---
 
+## **Mana yang Paling Minim Kompleksitasnya?**
+**Dynamic Programming (Held-Karp)** memiliki kompleksitas yang lebih rendah dan waktu eksekusi yang lebih efisien dibandingkan dengan Backtracking. Oleh karena itu, jika menghadapi jumlah kota yang besar, **Dynamic Programming** adalah pilihan yang lebih baik dari segi waktu eksekusi.
+
+---
+
 ## **Kesimpulan**
 1. Algoritma Backtracking cocok untuk jumlah kota yang kecil, namun tidak efisien untuk input besar karena kompleksitasnya.
 2. Algoritma Dynamic Programming (Held-Karp) lebih optimal untuk jumlah kota yang lebih besar karena memanfaatkan teknik *memoization*, meskipun masih memiliki batasan dalam skala yang sangat besar.
