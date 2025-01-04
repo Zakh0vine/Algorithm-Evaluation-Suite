@@ -1,4 +1,4 @@
-# README - Tugas Besar Strategi Algoritma: Traveling Salesman Problem (TSP)
+# Tugas Besar Strategi Algoritma: Traveling Salesman Problem (TSP)
 
 ## **Deskripsi Proyek**
 Proyek ini merupakan implementasi dan analisis algoritma untuk menyelesaikan permasalahan Traveling Salesman Problem (TSP) menggunakan dua pendekatan berbeda:
@@ -125,15 +125,12 @@ DP Path: [0, 3, 11, 7, 8, 9, 6, 4, 1, 10, 2, 5, 0], Distance: 23, Time: 0.111233
 
 ---
 
-## **Grafik**
-![Backtracking VS Dynamic Programming](https://github.com/user-attachments/assets/bd51d197-c9cf-4047-b168-3bfc84b6a476)
-
----
-
 ## **Analisis Hasil dan Grafik**
 Program akan menampilkan grafik yang menunjukkan perbedaan waktu eksekusi antara algoritma Backtracking dan Dynamic Programming pada berbagai ukuran input.
 - Algoritma Backtracking cenderung memiliki waktu eksekusi yang eksponensial karena kompleksitasnya *O(n!)*.
 - Algoritma Dynamic Programming memiliki waktu eksekusi yang lebih baik untuk ukuran input yang besar, meskipun masih mengalami pertumbuhan eksponensial untuk jumlah kota yang sangat besar.
+
+![Backtracking VS Dynamic Programming](https://github.com/user-attachments/assets/bd51d197-c9cf-4047-b168-3bfc84b6a476)
 
 ---
 
