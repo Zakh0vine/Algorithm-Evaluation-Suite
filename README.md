@@ -133,6 +133,10 @@ Program akan menampilkan grafik yang menunjukkan perbedaan waktu eksekusi antara
 ![Backtracking VS Dynamic Programming](https://github.com/user-attachments/assets/bd51d197-c9cf-4047-b168-3bfc84b6a476)
 
 ---
+## **Perbandingan Kompleksitas Waktu**
+![perbandingan](https://github.com/user-attachments/assets/fab924a3-4a30-4408-93c2-34303f258928)
+
+---
 
 ## **Kesimpulan**
 1. Algoritma Backtracking cocok untuk jumlah kota yang kecil, namun tidak efisien untuk input besar karena kompleksitasnya.
