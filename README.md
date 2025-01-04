@@ -147,9 +147,11 @@ Namun, jika hanya menangani sejumlah kota yang yang kecil dan ingin mencari solu
 ---
 
 ## **Kesimpulan**
-1. Algoritma Backtracking cocok untuk jumlah kota yang kecil, namun tidak efisien untuk input besar karena kompleksitasnya.
-2. Algoritma Dynamic Programming (Held-Karp) lebih optimal untuk jumlah kota yang lebih besar karena memanfaatkan teknik *memoization*, meskipun masih memiliki batasan dalam skala yang sangat besar.
-3. Program ini memberikan pemahaman tentang pendekatan brute force dan optimasi dalam menyelesaikan TSP.
+1. Untuk jumlah kota kecil (seperti `n=3`, `n=6`), perbedaan waktu eksekusi antara kedua algoritma mungkin tidak terlalu signifikan.
+2. Untuk jumlah kota yang lebih besar (misalnya `n=20`, `n=25`), algoritma **Dynamic Programming** akan lebih unggul karena waktu eksekusinya jauh lebih rendah dibandingkan **Backtracking**. Dengan kata lain, **Dynamic Programming** lebih dapat menangani masalah dengan jumlah kota yang lebih banyak, sementara **Backtracking** akan menjadi sangat lambat dan tidak praktis untuk `n` yang besar
+3. Algoritma Backtracking cocok untuk jumlah kota yang kecil, namun tidak efisien untuk input besar karena kompleksitasnya.
+4. Algoritma Dynamic Programming (Held-Karp) lebih optimal untuk jumlah kota yang lebih besar karena memanfaatkan teknik *memoization*, meskipun masih memiliki batasan dalam skala yang sangat besar.
+5. Program ini memberikan pemahaman tentang pendekatan brute force dan optimasi dalam menyelesaikan TSP.
 
 ---
 
